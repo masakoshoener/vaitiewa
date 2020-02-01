@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beseaheih.thetruth2020.org/sitemap.xml
